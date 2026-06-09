@@ -1,3 +1,4 @@
+  <img width="2735" height="1664" alt="snapshot " src="https://github.com/user-attachments/assets/67717bda-7f80-4c76-909c-a8d941339c05" />
 # 🚖 Uber Trip Insights: End-to-End Power BI Dashboard
 
 A dynamic and interactive data visualization tool built to analyze Uber trip data, focusing on booking trends, revenue generation, trip efficiency, customer behavior, location insights, and time-based demand patterns.
@@ -174,7 +175,3 @@ Location and time analysis assist in predicting future demand and optimizing res
 
 Transportation companies can use the dashboard to improve operational efficiency and make data-driven decisions.
 
-## . Screenshots / Demos
-
-Overview Analysis:
-[https://github.com/siddhi1416-m/Uber-Trip-Insights-End-to-End-Power-BI-Dashboard/blob/main/snapshot%20.png](https://github.com/siddhi1416-m/Uber-Trip-Insights-End-to-End-Power-BI-Dashboard/blob/main/snapshot%20.png)
